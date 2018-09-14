@@ -4,3 +4,4 @@ function upperCaseCustomerName() {
   customerName = customerName.toUpperCase();
   return customerName;
 }
+setBestCustomer = 'grindah';
